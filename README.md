@@ -7,9 +7,9 @@ Practicing Unity in 2D, experimenting with tilemaps and sidescrolling and whatev
   individual component branches
     ^
   dev                               workable layer 
-  --------------------------------------------------------
+  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
     ^                       
   staging                           safety layer
-  --------------------------------------------------------
+  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
     ^
   main                              buildable layer
